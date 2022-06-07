@@ -11,8 +11,9 @@ html{
 
 #main a{
     color:white;
-    font-family: 'Yrsa', serif;
+    font-family: 'Quattrocento Sans', sans-serif;
     font-size: 20px;
+    text-decoration: none;
 }
 #main p{
     color:white;
@@ -59,6 +60,12 @@ html{
 #main .heading{
     font-family: 'Quattrocento Sans', sans-serif;
     font-size: 50px;
+}
+
+#main h5{
+    color:white;
+    font-family: 'Quattrocento Sans', sans-serif;
+    font-size: 20px;
 }
 
 #description{

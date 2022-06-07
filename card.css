@@ -42,6 +42,10 @@ position: relative;
 
     transition: transform 0.5s;
 }
+
+#iframe{
+    border-radius: 15px;
+}
 .team .card-container .card:hover {
     transform: translateY(-5px) scale(1.01);
 }
